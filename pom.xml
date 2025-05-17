@@ -32,6 +32,7 @@
  
  <modules> <!--Aca se guardan los modulos de los microservicios a crear-->
   <module>gateway-microservice</module>  <!--agregado gateway microservice-->
+  <module>eureka-microservice</module>
  </modules>
 
  <url>http://www.example.com</url>
